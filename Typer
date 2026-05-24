@@ -1,0 +1,4 @@
+num1 = int(input("type in no1"))
+num2 = int(input("type in no2"))
+op = input("calculation option(+,-,*,/)")
+calc1(num1,num2,op)
